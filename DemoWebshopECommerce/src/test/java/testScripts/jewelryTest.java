@@ -44,5 +44,8 @@ public void sortByPriceHighToLow() {
 		selectOptionByIndex(jewelryPage.getDisplayPerPageDropdown(),2);
 	}	
 	
-	
+	@Test
+	public void gitMethod(){
+		//new method added
+	}
 }
